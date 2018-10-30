@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 32338c108363f5447b9b69d1a7bb8cbf
+timeCreated: 1524124227
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - visualizeToggle: {instanceID: 0}
+  - leafDropdown: {instanceID: 0}
+  - inputRatio: {instanceID: 0}
+  - selectedTypesAndRatios: {instanceID: 0}
+  - leafNumField: {instanceID: 0}
+  - messageBox: {instanceID: 0}
+  - messageBoxConent: {instanceID: 0}
+  - leafButton: {instanceID: 0}
+  - listContent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
